@@ -1,0 +1,17 @@
+{
+    "name": "iscale-solutions/header-body-plugin",
+    "description": "Insert Tags on the Header and Body",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "IScale Solutions Inc",
+            "email": "iscale@iscale-solutions.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
